@@ -15,3 +15,8 @@ bin/
 .idea/
 .vscode/
 *.iml
+
+# Inputs
+inputs.txt
+input.txt
+*.txt

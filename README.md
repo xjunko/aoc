@@ -13,12 +13,15 @@ Input file goes into their own day's folder.
 │   │   └── main.v
 │   ├── day04
 │   │   └── main.v
-│   └── day05
+│   ├── day05
+│   │   └── main.v
+│   └── day06
 │       └── main.v
 ├── common
 │   └── util.v
 ├── README.md
 └── v.mod
 
-7 directories, 8 files
+8 directories, 9 files
+
 ```
